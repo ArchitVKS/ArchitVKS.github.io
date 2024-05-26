@@ -30,4 +30,5 @@ Turf Toe is an injury that affects the mobility of an individual's big toe, most
 ### SmartCage for tactile human-drone interactions
 [Publication](https://www.researchgate.net/publication/369195638_A_Drone_Teacher_Designing_Physical_Human-Drone_Interactions_for_Movement_Instruction) 
 
-In a performance narrative, set choreography for both the humans and drones, allows them to dance together as a group, in drone-human duets, and as separate groups. The drones follow the basic movement pathways of the dancers, responding to the dancers’ choreography with their bodies in the air.
+A novel SmartCage that is 63% lighter than any commercially available cage for DJI Tello EDU drone was designed using Solidworks. The 3D printed cage prototype is the first drone cage that can house proximity and tactile sensors enabling the drone to localize itself around subjects in a human-drone collaborative dance performance. The shape, texture, form factor, color, and aerodynamics of the SmartCage was carefully considered to maximize utility while minimizing weight and enhancing a human’s ability/desire to engage with the drone physically. 
+![image](https://github.com/ArchitVKS/ArchitVKS.github.io/assets/90987431/7f4a6fa2-b529-4952-954b-1dab486b3076)
