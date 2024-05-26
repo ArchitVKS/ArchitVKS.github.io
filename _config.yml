@@ -2,6 +2,11 @@ title: Archit Sharma
 logo: /assets/img/Archit_nobg_Corrected.jpg
 #description: text below image
 #show_downloads: true
+
+#Theme (https://pages.github.com/themes/) 
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+#Preview
+gem "github-pages", group: :jekyll_plugins
