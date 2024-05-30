@@ -27,14 +27,16 @@ Turf Toe is an injury that affects the mobility of an individual's big toe, most
 
 <!-- - Phase One of the device provides gentle stretching exercises to help regain motion. As the initial pain subsides, regular controlled motion needs to be offered to the big toe providing pitch and yaw motion in the form of assistive motion with the help of motors.
 - Phase Two of toe rehab involves stresses that are slowly applied to the tissues. In this phase, the device will enable the patient to apply pressure on the toe in the downward direction to build muscle strength and count the number of repetitions for the same to facilitate a routine for rehabilitation exercises. No active forces need to be added to the main toe. There is resistance provided to the user with the help of the servo motor, which they must overcome. -->
-</details>  
+</details>
+
+### SmartCage for human-drone interactions
 <details>
-<summary>### SmartCage for human-drone interactions</summary>
 [Publication](https://www.researchgate.net/publication/369195638_A_Drone_Teacher_Designing_Physical_Human-Drone_Interactions_for_Movement_Instruction) 
 
 Designed a novel SmartCage that is 63% lighter than any commercially available cage for DJI Tello EDU drone using Solidworks. The 3D printed cage prototype is the first drone cage that can house proximity and tactile sensors enabling the drone to localize itself around subjects in a human-drone collaborative dance performance. The shape, texture, form factor, color, and aerodynamics of the SmartCage was carefully considered to maximize utility while minimizing weight and enhancing a human’s ability/desire to engage with the drone physically. 
 #![image](*link here*)
 </details>
+
 <details>
 <summary>### Police Work Traffic Light Controller</summary>
 
