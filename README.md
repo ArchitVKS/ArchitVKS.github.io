@@ -1,8 +1,8 @@
 # Research Scientist | Mechatronics & Robotics Engineer | Mechanical Engineer
 New York University, Brooklyn
 
-#### Technical Skills: Hardware Engineering, 
-#### Software Skills:  Mechatronics, Hardware Engineering, Sensor Fusion, Prototyping, Product Design, Mechanical Design, Additive Manufacturing, CAD, CAM, CAE, CFD, Finite Element Analysis (FEA), Material Properties, DFM, GD&T, Data Visualization.
+#### Technical Skills: Mechatronics, Hardware Engineering, Sensor Fusion, Prototyping, Product Design, Mechanical Design, Additive Manufacturing, CAD, CAM, CAE, CFD, Finite Element Analysis (FEA), Material Properties, DFM, GD&T, Data Visualization.
+#### Software Skills:  MATLAB, Simulink, Inventor, Creo, Catia V5, SolidWorks, Siemens NX, Ansys, MS Office, C++, Python, ROS
 
 ## Education						       		
 - M.S., Mechatronics, Robotics, and Automation (Medical Robotics Specialist) | New York University, Brooklyn (_May 2024_)	 			        		
